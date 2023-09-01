@@ -4,7 +4,7 @@
   "title": "No Cliff Explsives/Landfill",
   "author": "Erkigmo",
   "homepage": "https://github.com/Erkigmo/No-Cliff-Explsives-or-Landfill",
-  "factorio_version": "1.1.69",
+  "factorio_version": "1.1",
   "dependencies": ["base >= 1.1"],
   "description": "This mod removes cliff explosives and landfill"
 }
