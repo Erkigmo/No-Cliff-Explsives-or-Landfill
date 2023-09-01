@@ -1,0 +1,10 @@
+{
+  "name": "nocliff",
+  "version": "0.1.0",
+  "title": "No Cliff Explsives/Landfill",
+  "author": "Erkigmo",
+  "homepage": "https://github.com/Archemide/MomosTweak",
+  "factorio_version": "1.1.69",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod removes cliff explosives and landfill"
+}
